@@ -1,3 +1,20 @@
 .hidden-text {
   display: none;
 }
+
+.flashcards {
+  text-align: center;
+  font-size: 1.2em;
+  border: 2pt black solid;
+  height: 250px;
+  margin: 2px;
+}
+
+span {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+span:hover {
+  text-decoration: underline;
+}
